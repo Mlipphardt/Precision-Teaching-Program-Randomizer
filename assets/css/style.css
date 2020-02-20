@@ -1,0 +1,8 @@
+html{
+    height:100vh;
+}
+
+#background{
+    background-image: url("../images/NANOTECH-01.jpg");
+    height: 100vh;
+}
