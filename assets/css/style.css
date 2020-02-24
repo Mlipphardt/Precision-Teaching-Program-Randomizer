@@ -6,3 +6,12 @@ html{
     background-image: url("../images/NANOTECH-01.jpg");
     height: 100vh;
 }
+
+.jumbotron{
+    height: 70vh;
+}
+
+#operant-display{
+    height: 250px;
+    width: 250px
+}
